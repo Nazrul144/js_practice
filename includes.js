@@ -2,4 +2,4 @@ const universities = ['Dhaka University', 'Green University', 'National Universi
 
 const result = universities.includes('National University')
 
-console.log(result);
+console.log(result); // the includes method returns true or false, it the text exist in the array it returns true otherwise it returns false.
